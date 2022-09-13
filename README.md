@@ -1,5 +1,4 @@
 # ICS2O-UNIT1-01-JS
-
 ##################################################
 
 # Run Mr Coxall's Super Linter against code base #
@@ -75,3 +74,4 @@ jobs:
           DEFAULT_BRANCH: main
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
